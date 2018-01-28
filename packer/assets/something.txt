@@ -1,0 +1,1 @@
+I am something that is being served from packr in javascript
